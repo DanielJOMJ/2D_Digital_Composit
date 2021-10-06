@@ -1,3 +1,12 @@
-컴퓨터에서 색상은 Red Green Blue 색상을 조합해서 표현된다.
-<img src="https://user-images.githubusercontent.com/76280155/134163040-485d22b5-adbf-4271-9366-49c153f13839.png" width="220" align = "left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Nexus_one_screen_microscope.jpg" width="300">
+RGB
+삼원색 Red Green Blue가 각각 최댓값이 되면 흰색이 되는 가산혼합법으로 디지털에 사용된다.
+
+CMYK
+세가지색 Cyan Magenta Yellow로 Black을 표현을하는데 이때 CMYK는 감산혼합법으로 출력에 사용한다.
+
+비트(Bit)
+_컴퓨터에서 사용하는 최소단위다. 
+_2진법 표기의 단위로 표현된다. 
+_1bit는 2진수로 표현되며 0,1로 표현할 수 있다.
+https://aitconomy.tistory.com/entry/bit-Byte-%EA%B0%9C%EB%85%90-%ED%99%9C%EC%9A%A9%EC%82%AC%EB%A1%80-%EC%86%8C%EA%B0%9C >출처: https://blog.daum.net/gunsu0j/360
+
