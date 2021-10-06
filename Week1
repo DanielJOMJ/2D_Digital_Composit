@@ -1,11 +1,1 @@
-#1 RGB
-삼원색 Red Green Blue가 각각 최댓값이 되면 흰색이 되는 가산혼합법으로 디지털에 사용된다.
-#2 CMYK
-세가지색 Cyan Magenta Yellow로 Black을 표현을하는데 이때 CMYK는 감산혼합법으로 출력에 사용한다.
-https://www.adsland.com/bbs/board.php?bo_table=faq&wr_id=130&page=2&mb_id=&cart_no=&en64=
-비트(Bit)
-_컴퓨터에서 사용하는 최소단위다. 
-_2진법 표기의 단위로 표현된다. 
-_1bit는 2진수로 표현되며 0,1로 표현할 수 있다.
 
-https://aitconomy.tistory.com/entry/bit-Byte-개념-활용사례-소개
